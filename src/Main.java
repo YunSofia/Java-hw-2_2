@@ -12,5 +12,5 @@ public class Main {
         int endBalance = initialBalance + refill + bonus;
         System.out.println(endBalance + " рублей Ваш итоговый счет.");
         System.out.println(bonus + " бонусных рублей в том числе.");
-        }
+    }
 }

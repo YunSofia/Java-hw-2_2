@@ -4,7 +4,6 @@ public class Main {
         int initialBalance = 100;
         int refill = 1100;
         int bonus = refill / 100;
-
         if (refill > 1000) {
         } else {
             bonus = 0;

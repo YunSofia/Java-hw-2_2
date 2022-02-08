@@ -5,6 +5,7 @@ public class Main {
         int refill = 1100;
         int bonus = refill / 100;
         if (refill > 1000) {
+            System.out.println("Вы получили бонус.");
         } else {
             bonus = 0;
         }
